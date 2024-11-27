@@ -31,7 +31,9 @@ third dropdown will show P3 as the (selected)first item in the list and then p1,
 Basic Logic is the current dropdown should not consist of other selected products from the other 2 dropdowns 
 table should update based on dropdown selection.
 ---------
-specs   p1       p2         p3
-model   a1       s1         12
-brand   nokia   samsung     apple
-....
+
+|specs| p1 | p2 | p3 |
+|-----|----|----|----|
+|model|a1  |s1  |12  |
+|brand|noki|sams|appl|
+
